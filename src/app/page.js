@@ -2,7 +2,7 @@
 import { useServices } from "@/data/providers/ServicesProvider";
 import { useEffect, useState } from "react";
 
-const HomePage = () => {
+const Home = () => {
   const { getFlights } = useServices();
   const [flights, setFlights] = useState([]);
 
@@ -89,4 +89,4 @@ const HomePage = () => {
   );
 };
 
-export default HomePage;
+export default Home;
