@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "origin": "Ciudad de México",
+    "destination": "Cancún",
+    "date": "2025-08-15",
+    "airline": "Aeroméxico",
+    "price": 3200
+  },
+  {
+    "id": 2,
+    "origin": "Guadalajara",
+    "destination": "Monterrey",
+    "date": "2025-08-20",
+    "airline": "Volaris",
+    "price": 2100
+  },
+  {
+    "id": 3,
+    "origin": "Tijuana",
+    "destination": "Los Cabos",
+    "date": "2025-08-25",
+    "airline": "VivaAerobus",
+    "price": 1800
+  }
+]
